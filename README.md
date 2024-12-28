@@ -20,7 +20,7 @@ Content Overview:
 
 ### Recommandation Summary:
 #### 1. Targeting: Identifying Customer Groups for Marketing Efforts. 
-#### Based on the analysis of demographic and financial factors, this term deposit marketing campaign should focus on the following customer groups:
+#### Based on the analysis of demographic and financial factors, this term deposit marketing campaign should focus on the following customers:
 
 - Retired Individuals and Students: Specifically, target clients aged below 30 or above 60, as they are more likely to be risk-averse compared to other age groups and occupations.
 
