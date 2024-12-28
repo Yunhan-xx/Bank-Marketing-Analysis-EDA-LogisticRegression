@@ -1,6 +1,6 @@
-# Project: Optimizing Bank Marketing Strategies through Logistic Regression Analysis
+# Project: Bank Marketing Analysis
 ### Project Overview and Object
-Analyzed data from a Portuguese bank using logistic regression to identify key factors influencing clients' term deposit decisions. Highlighted the impact of demographic, financial, and marketing-campaign-related variables on term deposit subscriptions. Enhanced client targeting by analyzing how various factors influenced deposit decisions, summarized positioning strategies, and proposed improved telemarketing campaign ideas and promotion methods to increase subscription rates and strengthen client relationships.
+Optimized a Portuguese Bank Marketing Strategies through analyzed marketing campaign data using logistic regression to identify key factors influencing clients' term deposit decisions. Highlighted the impact of demographic, financial, and marketing-campaign-related variables on term deposit subscriptions. Enhanced client targeting by analyzing how various factors influenced deposit decisions, summarized product positioning strategies, and proposed improved telemarketing campaign ideas and promotion methods to increase subscription rates and strengthen client relationships.
 ### Problem Statement 
 Do specific aspects of the phone campaign, such as call duration, frequency of contacts, and timing of calls, or demographic, financial factors significantly impact consumer decisions 
 to subscribe a term deposit? 
@@ -16,7 +16,8 @@ Content Overview:
 - Target Variable (“y”) – Client Subscribe 
 
 ### Tool
-- Python - Data Exploration, Data Cleaning, Feature Selection, Modeling
+- Python - Data Exploration, Data Visualization, Data Cleaning, Feature Selection, Modeling
+
 ### Recommandation Summary:
 #### 1. Targeting: Identifying Customer Groups for Marketing Efforts. 
 #### Based on the analysis of demographic and financial factors, this term deposit marketing campaign should focus on the following customer groups:
